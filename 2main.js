@@ -2,7 +2,7 @@
 // prompt("If you like this page type yes")
 // confirm("Confirm if you are 18")
 var name = "Friends";
-alert( "Hello "+ name + "!" + ' Welcome to My Page');
+// alert( "Hello "+ name + "!" + ' Welcome to My Page');
 
 // var age = 19
 // confirm("are you 18 +?")
@@ -12,4 +12,4 @@ alert( "Hello "+ name + "!" + ' Welcome to My Page');
 // function showAlert(){
 //   alert("Welcome");
 // }
-showAlert();
+// showAlert();
